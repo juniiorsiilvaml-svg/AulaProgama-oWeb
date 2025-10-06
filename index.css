@@ -1,11 +1,11 @@
 body {
     color: rgb(255, 255, 255);
-    background-color: rgb(4, 82, 32);
+    background-image: -webkit-gradient(linear, left top, right top, from(rgb(45, 13, 131)), to(rgb(179, 118, 118)));
     font: 100% Arial, Helvetica, sans-serif;
 }
 ul {
     font-family:dancing script;
-    background-color: rgb(4, 82, 32);
+    background-image: -webkit-radial-gradient(center, circle cover, rgb(110 , 81, 131), rgb(128, 48, 126));
     display: flex;
     justify-content: space-between;
     align-items: center;   

@@ -1,0 +1,17 @@
+title{
+    text-align: center;
+    background-image: -webkit-gradient(linear, left top, right top, from(rgb(45, 13, 131)), to(rgb(179, 118, 118)));  
+    
+}
+h1 {
+    text-align: center;
+    background-image: -webkit-gradient(linear, left top, right top, from(rgb(45, 13, 131)), to(rgb(179, 118, 118)));  
+
+}
+header {
+    text-align: center;
+    background-blend-mode: exclusion;
+    background-image: -webkit-gradient(linear, left top, right top, from(rgb(24, 164, 57)), to(rgb(179, 118, 118)));
+    padding: 247px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
